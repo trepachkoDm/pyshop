@@ -31,7 +31,7 @@ Hash Finder is a simple Rust application designed to find and display hashes tha
 1. Clone this repository:
 
     \```bash
-    git clone https://github.com/yourusername/hash_finder.git
+    git clone https://github.com/trepachkoDm/pyshop.git
     cd hash_finder
     \```
 
